@@ -1,0 +1,27 @@
+MRN: 563457
+A 63-year-old male was admitted to the hospital due to the expectoration of white sticky sputum, a fever of 39.3 ℃, and shortness of breath and chest tightness after activity.
+He had no history of heart disease or hypertension.
+He had allergic cough for 5 years and a previous smoking history.
+He had a recent history of travel to Hubei Province, China.
+Blood gas analysis after admission showed a pH of 7.049, PCO2 of 76.4 mmHg, PO2 of 66.2 mmHg, and SaO2 at 91.8%.
+Nasal and pharyngeal swabs, bronchoalveolar lavage fluid (BALF), and sputum were tested for common respiratory viruses, and the results were all negative.
+In addition, blood samples showed increased alanine aminotransferase (ALT) (97 U/L) and creatinine (157 μmol/L) combined with hematuria, indicating deranged liver and renal function.
+Bedside chest radiographs showed typical ground-glass changes indicative of viral pneumonia.
+On the first day of admission, he was genetically confirmed to have COVID-19 according to sputum testing, Markers of myocardial injury included elevated troponin I (Trop I) (11.37 g/L), myoglobin (Myo) (390.97 ng/mL), and n-terminal brain natriuretic peptide (NTBNP) (22,600 pg/mL). An electrocardiogram showed sinus tachycardia and no ST-segment elevation.
+Bedside echocardiography showed an enlarged left ventricle (61 mm), diffuse myocardial dyskinesia along with a low left ventricular ejection fraction (LVEF) (32%), pulmonary hypertension (44 mmHg), and no decrease in right cardiac function.
+No pericardial effusion was observed.
+The diagnosis was considered severe pneumonia, ARDS, fulminant myocarditis, and multiple organ dysfunction syndrome (MODS).
+The treatment regimen was ventilatory support, high-flow oxygen, lopinavir–ritonavir antiviral therapy, interferon α-1b, methylprednisolone, immunoglobulin, piperacillin–tazobactam, and continuous renal replacement therapy (CRRT).
+Notably, 11 days after admission, the patient’s lung lesions continued to progress, and the ventilator was unable to maintain oxygen saturation.
+The ventricular septum thickened to 14 mm, and interleukin-6 (IL-6) increased to 272.40 pg/mL.
+Therefore, extracorporeal membrane oxygenation (ECMO) was used to reduce the cardiopulmonary burden.
+The rotating speed of ECMO was 3500 rpm, the blood flow rate was 4.30 L/min, the air-flow rate was 4.00 L/min, and FiO2 was 100%.
+At one time, the patient's condition improved.
+A blood test 3 days later revealed that Trop I was reduced to 0.10 g/L, NTBNP was 750 pg/mL, and IL-6 was 7.63 pg/mL.
+After treatment, the LVEF of the patient gradually recovered to 68%, the left ventricle and wall thickness returned to within their normal ranges, and the bedside chest film suggested that the lesion had decreased.
+However, infection-related markers increased gradually from the 26th day, and vasoactive drugs were needed to maintain blood pressure.
+Candida, human α-herpesvirus, and β-herpesvirus were detected in BALF on the 29th day, and blood culture was positive for Bacteroides ovalus, indicating the aggravation of secondary infection.
+Pulmonary artery systolic pressure (PASP) and tricuspid annular plane systolic excursion (TAPSE) showed sudden declines on the 26th and 29th days, suggesting impaired right cardiac function.
+After consultation with the expert group, anti-infection treatment was strengthened, but the effect was not good.
+Septic shock and disseminated intravascular coagulation (DIC) gradually developed, and ecchymosis was widely observed in the skin.
+The patient died on the 33rd day of hospitalization.

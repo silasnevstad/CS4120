@@ -1,0 +1,23 @@
+MRN: 346236
+A 50-year-old male was admitted to a fever clinic on Jan 21, 2020, with symptoms of fever, chills, cough, fatigue and shortness of breath.
+He reported a travel history to Wuhan Jan 8–12, and that he had initial symptoms of mild chills and dry cough on Jan 14 (day 1 of illness) but did not see a doctor and kept working until Jan 21.
+Chest x-ray showed multiple patchy shadows in both lungs, and a throat swab sample was taken.
+On Jan 22 (day 9 of illness), the Beijing Centers for Disease Control (CDC) confirmed by reverse real-time PCR assay that the patient had COVID-19.
+He was immediately admitted to the isolation ward and received supplemental oxygen through a face mask.
+He was given interferon alfa-2b (5 million units twice daily, atomisation inhalation) and lopinavir plus ritonavir (500 mg twice daily, orally) as antiviral therapy, and moxifloxacin (0·4 g once daily, intravenously) to prevent secondary infection.
+Given the serious shortness of breath and hypoxaemia, methylprednisolone (80 mg twice daily, intravenously) was administered to attenuate lung inflammation.
+After receiving medication, his body temperature reduced from 39·0 to 36·4 °C. However, his cough, dyspnoea, and fatigue did not improve.
+On day 12 of illness, after initial presentation, chest x-ray showed progressive infiltrate and diffuse gridding shadow in both lungs.
+He refused ventilator support in the intensive care unit repeatedly because he suffered from claustrophobia; therefore, he received high-flow nasal cannula (HFNC) oxygen therapy (60% concentration, flow rate 40 L/min).
+On day 13 of illness, the patient's symptoms had still not improved, but oxygen saturation remained above 95%.
+In the afternoon of day 14 of illness, his hypoxaemia and shortness of breath worsened.
+Despite receiving HFNC oxygen therapy (100% concentration, flow rate 40 L/min), oxygen saturation values decreased to 60%, and the patient had sudden cardiac arrest.
+He was immediately given invasive ventilation, chest compression, and adrenaline injection.
+Unfortunately, the rescue was not successful, and he died at 18:31 (Beijing time).
+Biopsy samples were taken from lung, liver, and heart tissue of the patient.
+Histological examination showed bilateral diffuse alveolar damage with cellular fibromyxoid exudates.
+The right lung showed evident desquamation of pneumocytes and hyaline membrane formation, indicating acute respiratory distress syndrome (ARDS).
+The left lung tissue displayed pulmonary oedema with hyaline membrane formation, suggestive of early-phase ARDS.
+Interstitial mononuclear inflammatory infiltrates, dominated by lymphocytes, were seen in both lungs.
+Multinucleated syncytial cells with atypical enlarged pneumocytes characterised by large nuclei, amphophilic granular cytoplasm, and prominent nucleoli were identified in the intra-alveolar spaces, showing viral cytopathic-like changes.
+No obvious intranuclear or intracytoplasmic viral inclusions were identified.

@@ -1,0 +1,21 @@
+MRN: 344645
+In February 2020, a 46-year-old female patient presented with a growing palpable mass on the right parietal region with no any other  symptoms  or  history.
+She  initially  visited  the  Second Hospital of Luohe City on February 4, 2020, and was examined by  one  physician  who  was  diagnosed  with  COVID-10  onFebruary  5,  2020  (Day  1,  was  in  contact  with  the  infected patient).
+The diagnosis of lung adenocarcinoma was confirmed by  bronchoscopic  biopsy,  and  the  mass  on  the  right parietal region  was  considered  metastatic.
+The  patient  was  transferred to  Henan  Chest  Hospital  for  further  treatment  on  February  9, 2020  (Day  5).
+Henan  Chest  Hospital  was  informed  that  this patient  had  been  in  contact  with  the  diagnosed  infected physician on February 14, 2020, and she immediately had chest CT   and   RT-PCR   tests   for   COVID-19   nucleic   acid   using nasopharyngeal  swabs.
+Results  of  RT-PCR  testing  for  C  -19 nucleic  acid  were  positive  on  February  14,  2020  (Day  10), however, chest CT did not demonstrate typical reported signs of COVID-19.
+The  patient  subsequently  developed  intermittent fever to 38°Celsius on the morning of February 15, 2020, and was  transferred  to  the  Sixth  People  Hospital  of  Zhengzhou, which  is  a  designated  hospital  for  COVID-19.
+The  patient experienced intermittent chest tightness, nausea and vomiting, and she  received  treatment with traditional Chinese  medicine.
+Chest  CT  scanning  was  performed  again  on  February  18,  2020 (Day 14), and no typical CT features  for COVID-19 were found.
+RT-PCR tests for COVID-19 were repeated on February 18 (Day 18)  and  20  (Day  18),  2020,  and  both  were  negative.
+She  had increased  C-reactive  protein  levels  and  reduced  lymphocyte ratios.
+Her symptoms started to improve, and she was transferred to a general ward.
+Chest   CT   images   showed   diffuse   irregular   small   diffuse ground-glass  nodular  opacities  with  partial  consolidation  in bilateral lungs on Day 10, in addition to the mass in  the  left  lung.
+The  nodules  increased  in  size  and  number  on Day 14.
+These diffuse irregular small ground-glass opacities with partial consolidation rapidly increased in 4 days in this patient with left lung  cancer,  which  were  consistent  with  inflammation,  rather than  metastasis.
+Repeat  positive  RT-PCR  tests  for  nucleic  acid confirmed  the  diagnosis  of  COVID-19.
+White  blood  cell  counts remained   elevated,   even   after   the   patient’s   symptoms improved,  likely  due  to  obstructive  pneumonia  caused  by  the tumor.
+Chest  CT  images  showed  diffuse  irregular  small  ground-glass opacities with partial consolidation in bilateral lungs on Day 10, in  addition  to  the  mass  in  the  left  lung.
+The  nodular  opacities increased  in  size  and  number  on  Day  14,  which  was  not  a typically  reported  COVID-19  feature  including  ground  glass opacity  (GGO),  crazy-paving  pattern,  and  consolidation(3,4).
+The  typical  distribution  of  lung  abnormalities  in  COVID-19  was reported  as  predominantly  subpleural;  however,   this  case showed predominantly diffuse involvement.

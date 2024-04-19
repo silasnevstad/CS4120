@@ -1,0 +1,16 @@
+MRN: 567564
+A 23-year-old male with chief complaints of fever and cough for 9 days was admitted to our hospital.
+His clinical manifestationsdid not improve despite an anti-inflammatory regimen.
+Physical examination revealed fever with a body temperature of 38.6°C.
+Physical examination on admission showed a congested pharynx and mild swelling of the bilateral tonsils.
+His breath sounds were coarse without rales.
+Other physical and neurological examinations were unremarkable.
+In view of the epidemiology, he had been working at a place located a few hundred meters away from the Huanan seafood Market in Wuhan City, China.
+He went to that market to buy fruits 11 days ago before admission.
+Laboratory examination on the second day after admission revealed decrease of blood oxygen saturation by 60%, blood gas analysis showed a normal pH of 7.446, normal white blood cell count of 6.66×109/L, increased percentage of neutrophils of 88.1%, and decreased percentage of lymphocytes of 6.4%.
+The serum biochemistry showed decreased total protein of 57.6 g/L, decreased albumin of 27.4 g/L, elevated serum glycated hemoglobin of 14.1%, elevated erythrocyte sedimentation rate of 24 mm/h, elevated C-reactive protein of >160.0mg/L, and normal interleukin-6 of 7.48 pg/mL.
+All routine microbiologic testing including typical respiratoryvirus antibodies were negative.
+Radiograph and computed tomography (CT) of the chest revealed ground-glass opacities and consolidations in the bilateral lungs.
+Hence, based on the epidemiologic, clinical manifestations, laboratory data, and radiologic findings, a diagnosis of 2019-nCoV infection was made according to the criteria published by WHO.6 During the hospitalization, in addition to symptomatic treatment, the patient was treated with antibiotics (meropenem, linezolid) and antiviral agents (ganciclovir, oseltamivir).
+All abnormal laboratory data gradually improved or became unremarkable.
+He finally recovered and was discharged from the hospital on the 15th day after admission.
